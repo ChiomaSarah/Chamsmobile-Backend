@@ -6,7 +6,6 @@ import {
   Patch,
   Param,
   Delete,
-  ParseIntPipe,
 } from '@nestjs/common';
 import { ValidationPipe } from '@nestjs/common/pipes';
 import { CreateMovieDto } from 'src/DTO/create-movie.dto';
