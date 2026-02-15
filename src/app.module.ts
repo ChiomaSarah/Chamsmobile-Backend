@@ -6,11 +6,11 @@ import { TypeOrmModuleOptions, TypeOrmModule } from '@nestjs/typeorm';
 
 const ormOptions: TypeOrmModuleOptions = {
   type: 'mysql',
-  host: 'sql8.freesqldatabase.com',
-  port: 3306,
-  username: 'sql8605641',
-  password: 'zx918yHpeB',
-  database: 'sql8605641',
+  host: 'xicf99.h.filess.io',
+  port: 3307,
+  username: 'movies_brushlion',
+  password: '2d145a9165a66a130a41869bfeaf4661c678ea2f',
+  database: 'movies_brushlion',
   autoLoadEntities: true,
   synchronize: true,
 };
